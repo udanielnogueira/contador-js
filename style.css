@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+:root {
+    font-size: 62.5%;
+    --green: #70dd4e;
+    --purple: #cf34b2;
+    --bg-color: #080808;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: var(--green);
+    font: 1.6rem 'Poppins';
+    background-color: var(--bg-color);
+}
+
+.container {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+    gap: 7rem;   
+}
+
+.corRoxa {
+    color: var(--purple);
+}
+
+.container h1 {
+    font-size: 4rem;
+    flex-wrap: wrap;
+}
+
+.contador {
+    width: 15rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.contador button {
+    color: var(--bg-color);
+    height: 3.5rem;
+    width: 3.5rem;
+    background-color: var(--purple);
+    border-radius: 50%;
+    font-size: 2rem ;   
+}
+
+a {
+    color: var(--green);
+    text-decoration: none;
+}
