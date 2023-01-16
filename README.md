@@ -1,5 +1,5 @@
 <div align="center">
-<p style="color: red;">Teste🍇</p>
+🍇
 <h3>Contador JS</h3>
 <p>Um contador de eventos que varia entre positivo e negativo.</p>
 <img src="https://img.shields.io/github/languages/count/udanielnogueira/contador-js">
