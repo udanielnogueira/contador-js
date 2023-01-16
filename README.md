@@ -21,7 +21,7 @@
 
 ### Mobile
 
-![Preview do projeto](assets/img/contador-js-mobile-preview.JPG "Contador JS Preview")
+<img src="assets/img/contador-js-mobile-preview.JPG" height="500" alt="Contador JS Mobile Preview">
 
 ## Tecnologias
 
