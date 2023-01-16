@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/udanielnogueira/portfolio-page/blob/main/assets/contador-js-logo.png" alt="Contador JS logo" height="200">
+<img src="https://github.com/udanielnogueira/portfolio-page/blob/main/assets/img/contador-js-logo.png" alt="Contador JS logo" height="200">
 <h3>Contador JS</h3>
 <p>Um contador de eventos que varia entre positivo e negativo.</p>
 <img src="https://img.shields.io/github/languages/count/udanielnogueira/contador-js">
@@ -15,7 +15,13 @@
 
 ## Preview
 
-![Preview do projeto](assets/contador-js-preview.gif "Contador JS Preview")
+### Desktop
+
+![Preview do projeto](assets/contador-js-preview.png "Contador JS Preview")
+
+### Mobile
+
+![Preview do projeto](assets/contador-js-mobile-preview.JPG "Contador JS Preview")
 
 ## Tecnologias
 
