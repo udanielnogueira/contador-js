@@ -17,11 +17,11 @@
 
 ### Desktop
 
-![Preview do projeto](assets/contador-js-preview.png "Contador JS Preview")
+![Preview do projeto](assets/img/contador-js-preview.png "Contador JS Preview")
 
 ### Mobile
 
-![Preview do projeto](assets/contador-js-mobile-preview.JPG "Contador JS Preview")
+![Preview do projeto](assets/img/contador-js-mobile-preview.JPG "Contador JS Preview")
 
 ## Tecnologias
 
