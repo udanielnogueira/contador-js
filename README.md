@@ -25,7 +25,7 @@
 
 ## Link de acesso
 
-<a href="https://udanielnogueira.github.io/contador-js/" target="_blank">Portfolio Page</a>
+<a href="https://udanielnogueira.github.io/contador-js/" target="_blank">Contador JS</a>
 
 <!-- 
 Images
