@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/github/languages/code-size/udanielnogueira/contador-js">
 <br>
 <img src="https://img.shields.io/github/last-commit/udanielnogueira/contador-js">
-<img src="https://img.shields.io/github/deployments/udanielnogueira/contador-js/github-pages">
+<img src="https://img.shields.io/github/deployments/udanielnogueira/contador-js/github-pag">
 <br>
 <img src="https://img.shields.io/github/license/udanielnogueira/contador-js">
 <img src="https://img.shields.io/badge/responsive-yes-ff69b4">
